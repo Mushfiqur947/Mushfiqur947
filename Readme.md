@@ -71,14 +71,14 @@
 
 ## Connect with me:
 
-<p align="center">
+
 
 <a href = "https://www.linkedin.com/in/mushfiqurmozumder/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/mushfiqur_dexter/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "mailto:mushfiqur468@outlook.com"><img src="https://img.icons8.com/ios/48/ffffff/ms-outlook.png"/></a>
 
-</p>
-## ❤ Views and Followers
+
+##  ❤ Views and Followers
 
 <a href="https://github.com/Mushfiqur947/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Mushfiqur947">
